@@ -4,5 +4,10 @@ public class Z24 {
         for (int i: elements) {
             System.out.println(i);//
         }
+        System.out.println("---------------");
+        for (int i = 0; i < elements.length; i++) {
+            System.out.println(elements[i]);
+        }
+        System.out.println("---------------");
     }
 }
