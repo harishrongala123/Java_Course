@@ -1,0 +1,13 @@
+app1  : helloworld,literals, comments,println,print,variables
+app2  : unary operators
+app3  : boolean operators
+app4  : binary representation with bitwise operators
+app5  : if blocks
+app6  : nested if blocks
+app7  : if
+app8  : if-else
+app9  : else if
+app10 : ternary operators
+app11 : 
+app12 : switch case 
+app13 : for-loop 
